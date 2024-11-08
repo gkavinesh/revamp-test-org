@@ -9,15 +9,6 @@
   </div>
 </div>
 
-
-<div style="display: flex; align-items: center;">
-  <br>
-  <br>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Be+Vietnam+Pro&weight=600&size=40&pause=1000&color=B5F732&vCenter=true&width=600&lines=Welcome+to+Metana!+%F0%9F%91%8B;Future-Proof+your+Career.;Land+a+job.+Guaranteed." alt="Typing SVG" style="margin-top: -50px;">
-    </a>
-</div>
-
 ---
 
 
