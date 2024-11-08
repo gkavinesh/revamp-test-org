@@ -1,5 +1,4 @@
 
-=======
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://imgproxy.cryptojobslist.com/sig0x23/q:75/resize:fill/dpr:1.2/width:200/height:200/rs:fit/ex:1/plain/gs:/job-listing-logos/876f53dc-7a68-4dd4-9218-34ee8208d19c.png" alt="Metana Logo" style="margin-right: 20px; width: 200px; height: 200px;">
   <div style="text-align: center;">
