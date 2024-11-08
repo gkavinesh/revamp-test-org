@@ -72,9 +72,5 @@ Gain lifetime access to our network of international professionals, industry exp
 
 [Connect with Our Community](https://discord.gg/34HUEGrSfX)
 
-
-<img src="./header.png" alt="Metana Logo" style="margin-right: 20px; width: 1200px; height: 200px;">
-
-
 Transform your career with Metana. [Apply Now](https://metana.io/apply)
 
