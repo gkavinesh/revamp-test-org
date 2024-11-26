@@ -3,10 +3,6 @@
 
 
 
-
-
-
-
 ### **Metana** offers immersive, project-based bootcamps to transform engineers into Web3 and software development experts. Our hands-on training, personalized mentorship, and job placement support equip you with the skills to excel in high-demand tech roles.
 
 <br>
